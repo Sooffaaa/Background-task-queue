@@ -1,1 +1,6 @@
-# Background-task-queue
+# 📬 Background Notification Service (Celery + Redis + Docker)
+Этот проект имитирует работу системы, которой нужно выполнять "тяжелые" или долгие задачи в фоне, не заставляя пользователя ждать у экрана.
+
+## 🛠 Стек технологий
+
+FastAPI, Celery, Redis,Docker Compose + Логика Autoretry(автоповтор при сбоях).
