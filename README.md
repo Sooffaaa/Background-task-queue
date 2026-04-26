@@ -3,4 +3,4 @@
 
 ## 🛠 Стек технологий
 
-FastAPI, Celery, Redis,Docker Compose + Логика Autoretry(автоповтор при сбоях).
+FastAPI, Celery, Redis, Docker + Логика Autoretry(автоповтор при сбоях).
